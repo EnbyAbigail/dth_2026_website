@@ -8,14 +8,3 @@ Linux being open source is a great place to start when discussing the advantages
 
 Open source software is collaborative in nature, as other users are able to branch out from your work and contribute with their own additions, edits and ideas, which can ultimately lead to rapid improvements that closed source may never achieve (Mangnani 2023). It is also considered far more reliable and safe than most closed source by IT leaders (Pratt 2022).
 
-
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
-
-- one item
-- another item
-
-### A smaller headline
-
-You can also add images from the assets folder:
-
-![The beach at Skagen](./assets/images/skagen.jpg)
