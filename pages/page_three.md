@@ -8,3 +8,5 @@ As an English history, society, and culture student, archived information is key
 *Trafilatura* uses the ***Apache License 2.0*** which allows users to “modify, distribute, and sublicense the original source code” as well as use it commercially and have patent claims (Tal).
 
 *Trafilatura* is usefil in my major of English with a thesis focused on history. Writing and researching nationalism and Donald Trump it would allow me to quicker and easier scrape the upwards of a hundred news articles I need for discourse analysis, only retaining essential html code and not all the clutter. It also **helps solve the issue of website information periodically changing and the loss of previous data**. The tool also **helps retain information from sites at risk of deletion**, such as government websites and datasets under the current US administration (Bennet 2025).
+
+[Sources](https://enbyabigail.github.io/dth_2026_website/index.html?page=sources)

@@ -8,3 +8,4 @@ Open source OS like *Linux* may give the user or company in depth access to thei
 
 Combining open source with proprietary closed source software or hardware may also present further challenges, especially in a corporate setting, and can be **time and energy exhaustive** (Pratt 2022; Morgan 2007). This can further be difficult when needing driver updates, as your system **may not be given as much attention and effort** (Mangnani 2023). Running into problems is common with technology, but when utilizing open source there are often **not the traditional sources of support** as there are with company owned and run closed source software and OS, which **may leave the average user stuck in a problem**.
 
+[Sources](https://enbyabigail.github.io/dth_2026_website/index.html?page=sources)

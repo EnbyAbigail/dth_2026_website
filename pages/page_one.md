@@ -8,3 +8,4 @@ Open source can to some degree be considered the baseline for all software at th
 
 Open source software is **collaborative in nature**, as other users are able to branch out from your work and contribute with their own additions, edits and ideas, which can ultimately lead to rapid improvements that closed source may never achieve (Mangnani 2023). **It is also considered far more reliable and safe than most closed source by IT leaders** (Pratt 2022).
 
+[Sources](https://enbyabigail.github.io/dth_2026_website/index.html?page=sources)
