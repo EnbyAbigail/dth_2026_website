@@ -1,4 +1,4 @@
-# Page one
+# Page one: Benefits
 
 ## The Benefits of Open Source
 
